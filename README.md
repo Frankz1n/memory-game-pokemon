@@ -46,3 +46,4 @@ Utilize este comando: npm install
 ### Placar de Lideres
 ![image](https://github.com/vortigo-digital/jogo-da-memoria-pokemon-franklyn/assets/90364021/41d5c495-13b3-49b8-b12e-75b9319cf92a)
 
+### Link do projeto: https://vercel.com/new/franklyn-limas-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=memory-game-pokemon-4yra1zpbm-franklyn-limas-projects.vercel.app&projectName=memory-game-pokemon&s=https%3A%2F%2Fgithub.com%2FFrankz1n%2Fmemory-game-pokemon&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
